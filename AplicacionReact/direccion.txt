@@ -1,0 +1,13 @@
+C:\Users\nelcambo\My Drive\Back up -17 10 2022\OneDrive\Data Science\MIsionTIC2022\Progamacion\Ciclo 4\Semana 3\AplicacionReact\appsemana3
+
+Compiled successfully!
+
+You can now view appsemana3 in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.1.7:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
